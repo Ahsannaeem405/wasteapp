@@ -1,0 +1,24 @@
+{
+    "name": "mobile-web-app",
+    "version": "1.0.0",
+    "description": "This is the repository for a mobile-web-app",
+    "main": "index.js",
+    "dependencies": {
+        "firebase": "^1.2.0",
+        "semver": "^7.3.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wasteinfonet/mobile-web-app.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wasteinfonet/mobile-web-app/issues"
+    },
+    "homepage": "https://github.com/wasteinfonet/mobile-web-app#readme"
+}
